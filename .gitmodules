@@ -1,0 +1,12 @@
+[submodule "runandrisk-server"]
+	path = runandrisk-server
+	url = https://github.com/ocio/runandrisk-server.git
+[submodule "runandrisk-common"]
+	path = runandrisk-common
+	url = https://github.com/ocio/runandrisk-common.git
+[submodule "runandrisk-client"]
+	path = runandrisk-client
+	url = https://github.com/ocio/runandrisk-client.git
+[submodule "runandrisk-map"]
+	path = runandrisk-map
+	url = https://github.com/ocio/runandrisk-map.git
